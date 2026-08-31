@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "FPGA Implementations of 2D DCT Approximations for PYNQ-Z2"
+authors:
+  - family-names: "Villagómez Escobar"
+    given-names: "Ricardo"
+date-released: 2026-08-30
